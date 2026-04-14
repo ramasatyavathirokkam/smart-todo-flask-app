@@ -20,6 +20,10 @@ A simple and smart task management web application built using Flask. This app h
 - User authentication(login system)
 - database integration(SQLite/MySQL)
 - Task editing feature with UI
+#Screenshot
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e7360bc3-3461-4beb-9a39-a4029ab92a58" />
+
+
 
   
 
